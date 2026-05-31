@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-09",
+  "track": "tr",
+  "answer": "Vizontele",
+  "clues": {
+    "genre": "Comedy",
+    "year": "2001",
+    "type": "Movie"
+  },
+  "quotes": [
+    {
+      "text": "Ben sinemacıyım, yalanı perdede söylerim.",
+      "character": "Latif",
+      "context": "Televizyonun gelişiyle sinema salonunun kapanma tehlikesini tartışırken"
+    },
+    {
+      "text": "Baba akü yok. Şarjı bitmiş demiyorum, bildiğin akü yok.",
+      "character": "Fikri",
+      "context": "Belediye arabasını çalıştırmaya çalışırken babası Nazmi'ye durum raporu verirken"
+    },
+    {
+      "text": "Bi bisküviye bir tur veren Rıfat abini unutma.",
+      "character": "Artiz Rıfat",
+      "context": "Bisikletli çocuğa laf atıp kendini hatırlatmaya çalışırken"
+    },
+    {
+      "text": "İnsan memleketini niye sever? Başka çaresi yoktur da ondan...",
+      "character": "Belediye Başkanı Nazmi",
+      "context": "Kasabanın durumu ve memleket sevgisi üzerine dertleşirken"
+    },
+    {
+      "text": "Peki Zeki Müren de bizi görecek mi?",
+      "character": "Deli Emin",
+      "context": "Televizyonun çalışma prensibi anlatılırken Emin'in sorduğu unutulmaz soru"
+    }
+  ],
+  "searchSuggestions": [
+    "Vizontele",
+    "Vizontele Tuuba",
+    "G.O.R.A.",
+    "Organize İşler",
+    "Hükümet Kadın"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-02",
+  "track": "tr",
+  "answer": "Şahsiyet",
+  "clues": {
+    "genre": "Crime / Mystery",
+    "year": "2018",
+    "type": "TV Series"
+  },
+  "quotes": [
+    {
+      "text": "Köpeğe bakıyorum, bana bakıyor. Sanki ikimiz de aynı şeyi düşünüyoruz: Bu dünyada ne işimiz var bizim?",
+      "character": "Agâh Beyoğlu",
+      "context": "1. Sezon, 5. Bölüm"
+    },
+    {
+      "text": "Bu şehirde cinayet işlenmiyor demiyorum Nevra, bu şehirde cinayetler örtbas ediliyor diyorum.",
+      "character": "Tolga",
+      "context": "1. Sezon, 3. Bölüm"
+    },
+    {
+      "text": "Ateş Bey, siz gazetecisiniz. Size bir cinayet ihbarı yapsam, manşet yapar mısınız?",
+      "character": "Deva",
+      "context": "1. Sezon, 6. Bölüm"
+    },
+    {
+      "text": "Bütün hatıralarım, her şey silinip gidecek. Ben ne olacağım o zaman? Bir hiç...",
+      "character": "Agâh Beyoğlu",
+      "context": "1. Sezon, 2. Bölüm"
+    },
+    {
+      "text": "Şahsiyet dediğin nedir ki zaten? Bir hafıza... Hafıza gidince şahsiyet de gider.",
+      "character": "Agâh Beyoğlu",
+      "context": "1. Sezon, 1. Bölüm"
+    }
+  ],
+  "searchSuggestions": [
+    "Şahsiyet",
+    "Masum",
+    "Bozkır",
+    "Mezarlık",
+    "Halka"
+  ]
+}

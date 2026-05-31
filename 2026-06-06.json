@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-06",
+  "track": "tr",
+  "answer": "Kuzey Güney",
+  "clues": {
+    "genre": "Drama",
+    "year": "2011",
+    "type": "TV Series"
+  },
+  "quotes": [
+    {
+      "text": "Sen o kapıyı kapatınca içerideki her şeyi unuttuğunu sanıyorsun ama duvarlar her şeyi hatırlıyor.",
+      "character": "Şeref Komiser",
+      "context": "2. Sezon, 15. Bölüm"
+    },
+    {
+      "text": "Ben senin gölgen gibi yaşadım bunca sene. Artık kendi güneşimde yanmak istiyorum.",
+      "character": "Güney Tekinoğlu",
+      "context": "2. Sezon, 8. Bölüm"
+    },
+    {
+      "text": "Ben bu hayatta bir tek sana inandım Kuzey, sen de beni yarı yolda bırakırsan ben kime tutunacağım?",
+      "character": "Simay Canıtez",
+      "context": "1. Sezon, 18. Bölüm"
+    },
+    {
+      "text": "O fırın her gün yanacak! O dükkan her gün açılacak!",
+      "character": "Sami Tekinoğlu",
+      "context": "1. Sezon, 4. Bölüm"
+    },
+    {
+      "text": "Kuzey Tekinoğlu'yum ulan ben! Ben bu oyunu bozarım!",
+      "character": "Kuzey Tekinoğlu",
+      "context": "2. Sezon, 11. Bölüm"
+    }
+  ],
+  "searchSuggestions": [
+    "Kuzey Güney",
+    "Aşk-ı Memnu",
+    "Ezel",
+    "Medcezir",
+    "Karadayı"
+  ]
+}

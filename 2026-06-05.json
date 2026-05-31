@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-05",
+  "track": "tr",
+  "answer": "Eşkıya",
+  "clues": {
+    "genre": "Suç / Dram",
+    "year": "1996",
+    "type": "Film"
+  },
+  "quotes": [
+    {
+      "text": "Söyle ona, Baran’ın selamı var. O beni tanır.",
+      "character": "Baran",
+      "context": "Baran'ın İstanbul'a ilk geldiğinde eski arkadaşı Mustafa'yı bulabilmek için pavyon yakınlarında insanlara sorduğu sahne."
+    },
+    {
+      "text": "Seni kurtaracağım Ceren. Bu pislikten, bu hayattan çekip alacağım seni.",
+      "character": "Cumali",
+      "context": "Cumali'nin sevgilisi Ceren'i kurtarmak için ona söz verdiği duygusal sahne."
+    },
+    {
+      "text": "Sen burayı Cudi Dağı mı sandın dayı? Burası İstanbul, burada kurallar başka işler.",
+      "character": "Cumali",
+      "context": "Cumali'nin, Baran'ın şehir hayatındaki yabancılığını ve saf tavırlarını gördükten sonra ona çıkıştığı sahne."
+    },
+    {
+      "text": "Beni hapiste tam otuz beş yıl unuttular. Otuz beş yıl... Dile kolay.",
+      "character": "Baran",
+      "context": "Baran'ın hapishaneden çıktıktan sonra köye geri dönüp her şeyin değiştiğini gördüğü ve geçmişini sorguladığı sahne."
+    },
+    {
+      "text": "Korkma, sadece toprağa gideceksin, sonra toprak olacaksın, sonra sularla birlikte bir çiçeğin bedenine yürüyeceksin, oradan özüne ulaşacaksın. Belki o arı ben olacağım.",
+      "character": "Baran",
+      "context": "Baran'ın, yaralı halde kollarında can veren Cumali'yi teselli etmek ve ölüm korkusunu yenmesini sağlamak için çatı katında söylediği efsanevi replik."
+    }
+  ],
+  "searchSuggestions": [
+    "Eşkıya",
+    "Gönül Yarası",
+    "Her Şey Çok Güzel Olacak",
+    "Kabadayı",
+    "Av Mevsimi"
+  ]
+}

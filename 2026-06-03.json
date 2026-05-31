@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-03",
+  "track": "tr",
+  "answer": "Babam ve Oğlum",
+  "clues": {
+    "genre": "Drama",
+    "year": "2005",
+    "type": "Movie"
+  },
+  "quotes": [
+    {
+      "text": "Evlatlar babalarını her zaman kahraman olarak görmek isterler Deniz. Ama kahramanların da bazen yenildiğini anlamak onlar için zordur.",
+      "character": "Sadık",
+      "context": "Sadık'ın oğlu Deniz ile yatakta uzanıp gelecek ve hayalleri üzerine dertleştiği duygusal an."
+    },
+    {
+      "text": "Ben ona git demedim ki... Ben ona sadece, 'Seçimini yap' dedim. O da gitti.",
+      "character": "Hüseyin Efendi",
+      "context": "Hüseyin Efendi'nin, Sadık'ın yıllar sonra eve dönmesi üzerine geçmişteki kırgınlıklarını aile meclisinde dile getirdiği sahne."
+    },
+    {
+      "text": "Kız bu oğlan ne kadar kibar konuşuyor böyle, 'teşekkür ederim' falan diyor. Bizimkiler olsa kafana vurup elinden alırdı.",
+      "character": "Birşen",
+      "context": "Birşen'in, Deniz'in şehirli ve nazik tavırlarını köydeki çocuklarla kıyaslayıp güldüğü sahne."
+    },
+    {
+      "text": "Kollarımı açtım... Gitme diyemedim ona, gitme diyemedim!",
+      "character": "Hüseyin Efendi",
+      "context": "Hüseyin Efendi'nin, Sadık'ın vefatından sonra sokak ortasında feryat ederek kollarını açıp ağladığı meşhur sahne."
+    },
+    {
+      "text": "Ona bir oda ver baba. Arkasında tapusu olmasın ama bir kapısı olsun. Sıkıştığında arkasına saklanabileceği bir kapısı olsun... Ona gidecek bir yer bırak baba.",
+      "character": "Sadık",
+      "context": "Sadık'ın, ölümünden sonra oğlu Deniz'e sahip çıkması için babası Hüseyin Efendi'ye yalvardığı filmin en can alıcı sahnesi."
+    }
+  ],
+  "searchSuggestions": [
+    "Babam ve Oğlum",
+    "Dedemin İnsanları",
+    "Issız Adam",
+    "Mustafa Hakkında Her Şey",
+    "Çağan Irmak"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-08",
+  "track": "tr",
+  "answer": "Masum",
+  "clues": {
+    "genre": "Crime / Thriller",
+    "year": "2017",
+    "type": "TV Series"
+  },
+  "quotes": [
+    {
+      "text": "Nermin, şu sarımsak eziciyi nereye koydun? Bulamıyorum bir türlü.",
+      "character": "Cevdet",
+      "context": "1. Sezon, 1. Bölüm"
+    },
+    {
+      "text": "Ben buraya kafa dinlemeye geldim güya ama kafamın içi her zamankinden daha gürültülü.",
+      "character": "Yusuf",
+      "context": "1. Sezon, 3. Bölüm"
+    },
+    {
+      "text": "Sen abimi hiç tanımamışsın. O hiçbir şeyi yarım bırakmazdı, özellikle de beni.",
+      "character": "Tarık",
+      "context": "1. Sezon, 5. Bölüm"
+    },
+    {
+      "text": "Biz ne yaptıysak ailemiz için yaptık Yusuf. Sen olsan aynısını yapmaz mıydın?",
+      "character": "Nermin",
+      "context": "1. Sezon, 7. Bölüm"
+    },
+    {
+      "text": "İnsan her şeye alışıyor Yusuf. Bir tek... Kendi vicdanına alışamıyor.",
+      "character": "Cevdet",
+      "context": "1. Sezon, 8. Bölüm"
+    }
+  ],
+  "searchSuggestions": [
+    "Masum",
+    "Bir Başkadır",
+    "Şahsiyet",
+    "Bozkır",
+    "Alef"
+  ]
+}

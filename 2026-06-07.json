@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-07",
+  "track": "tr",
+  "answer": "G.O.R.A.",
+  "clues": {
+    "genre": "Sci-Fi / Comedy",
+    "year": "2004",
+    "type": "Movie"
+  },
+  "quotes": [
+    {
+      "text": "Abi bu halı yolluk mu, yoksa duvara asmalık mı?",
+      "character": "Faruk",
+      "context": "Arif'in dükkanındaki çırağının dükkandaki halılardan biri hakkında soru sorduğu açılış sahnesi"
+    },
+    {
+      "text": "Oğlum ben buranın yabancısıyım, bana öyle dokunmatik şeyler yapma.",
+      "character": "Arif",
+      "context": "Arif'in G.O.R.A. gezegenindeki hücresinde kendisiyle konuşmaya çalışan holograma tepki gösterdiği sahne"
+    },
+    {
+      "text": "Uzaylı da olsa insan insandır.",
+      "character": "Muhittin",
+      "context": "Arif ve diğer hücre arkadaşlarının kaçış planı öncesinde dertleştiği hapishane sahnesi"
+    },
+    {
+      "text": "Komutan Logar, bir cisim yaklaşıyor efendim!",
+      "character": "Tihon",
+      "context": "Uzay gemisinin kontrol merkezinde ekranda beliren cismin paniğe yol açtığı ünlü sahne"
+    },
+    {
+      "text": "Ateş, su, toprak, tahta. - Tahta mı? - Tahta tabii, zoruna mı gitti?",
+      "character": "Bob Marley Faruk",
+      "context": "Arif'in Garavel'i bulmak için Bob Marley Faruk ile ormanda karşılaşıp elementler üzerine konuştuğu sahne"
+    }
+  ],
+  "searchSuggestions": [
+    "G.O.R.A.",
+    "A.R.O.G",
+    "Yahşi Batı",
+    "Pek Yakında",
+    "Cem Yılmaz"
+  ]
+}
